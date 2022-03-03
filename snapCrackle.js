@@ -19,4 +19,3 @@ function snapCrackle(maxValue) {
 
   }
   return myString
-}
